@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -36,7 +36,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-tailwind-component-library",
+  "name": "@atelypham/react-tailwind-component-library",
   "author": "AtelyPham",
   "module": "dist/react-tailwind-component-library.esm.js",
   "size-limit": [
